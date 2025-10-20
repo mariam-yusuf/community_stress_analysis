@@ -17,7 +17,8 @@ This project was completed using:
 ---
 
 ## Dataset
-- *Source:* 311 Service Requests – Washington, D.C.  
+- *Source:* 311 Service Requests – Washington, D.C.
+- *source:* https://catalog.data.gov/dataset/?publisher=Office+of+Unified+Communications&organization=district-of-columbia&res_format=HTML
 - *Period Covered:* January 2022 – December 2023  
 - *Main Features:*
   - Request type (e.g., sanitation, streetlight, noise, etc.)
@@ -66,14 +67,6 @@ This project was completed using:
 - community_stress_analysis.xlsx – Excel file with charts, tables, and summaries.  
 - presentation_slides.pptx – Final presentation slides.  
 
----
-
-## Author
-*Maryam Ali*  
-Data Analysis Student | Medical Graduate | Interested in Public Health & Urban Analytics  
-📍 Bahrain  
-📧 [your.email@example.com]  
-🔗 [GitHub Portfolio](https://github.com/yourusername)
 
 ---
 
